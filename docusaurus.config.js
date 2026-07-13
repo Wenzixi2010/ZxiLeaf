@@ -98,5 +98,20 @@ module.exports = {
       theme: lightTheme,
       darkTheme: darkTheme,
     },
+    footer: {
+      style: 'dark',
+      copyright: `
+        <div style="display:flex;justify-content:center;align-items:center;gap:24px;flex-wrap:wrap;">
+          <a href="https://www.cloudflare.com" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:6px;">
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cloudflare.svg" alt="Cloudflare" width="20" height="20" style="filter:invert(56%) sepia(90%) saturate(1500%) hue-rotate(360deg);" />
+            <span>Powered By Cloudflare</span>
+          </a>
+          <a href="https://vercel.com" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:6px;">
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" alt="Vercel" width="20" height="20" style="filter:invert(1);" />
+            <span>Powered By Vercel</span>
+          </a>
+        </div>
+      `,
+    },
   },
 };
