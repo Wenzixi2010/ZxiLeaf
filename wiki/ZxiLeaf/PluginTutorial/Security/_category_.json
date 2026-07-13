@@ -1,8 +1,8 @@
 {
-  "label": "服规",
+  "label": "安全类",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "服务器规定"
+    "description": "安全类插件教程"
   }
 }

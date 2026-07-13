@@ -5,16 +5,10 @@ import styles from './styles.module.css';
 
 const ProjectList = [
     {
-        title: 'Xavier Optimized 整合包',
-        description: <>极致优化，原版体验</>,
-        repo: "Xavier-MC/",
-        link: "/wiki/XavierOptimized/intro",
-    },
-    {
-        title: 'Xavier 服务器',
-        description: <>已关服，文档仅留作纪念</>,
-        repo: "Xavier-MC/",
-        link: "/wiki/Xavier/intro",
+        title: "Zxi's Leaf 服务器",
+        description: <>欢迎加入游玩~</>,
+        repo: "ZxiLeaf/",
+        link: "/wiki/ZxiLeaf/intro",
     },
 ];
 

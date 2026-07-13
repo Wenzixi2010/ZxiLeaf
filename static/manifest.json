@@ -1,36 +1,21 @@
 {
-    "name": "Xavier",
-    "short_name": "Xavier",
+    "name": "Zxi's Leaf",
+    "short_name": "Zxi's Leaf",
     "theme_color": "#12affa",
     "background_color": "#424242",
     "display": "standalone",
-    "scope": "https://docs.xaviermc.top/",
-    "start_url": "https://docs.xaviermc.top/",
+    "scope": "https://mc-docs.wenzixi.top/",
+    "start_url": "https://mc-docs.wenzixi.top/",
     "related_applications": [
       {
         "platform": "webapp",
-        "url": "https://docs.xaviermc.top/manifest.json"
+        "url": "https://mc-docs.wenzixi.top/manifest.json"
       }
     ],
     "icons": [
       {
-        "src": "static/img/logo-32.png",
-        "sizes": "32x32",
-        "type": "image/png"
-      },
-      {
-        "src": "static/img/logo-128.png",
-        "sizes": "128x128",
-        "type": "image/png"
-      },
-      {
-        "src": "static/img/logo-192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      },
-      {
-        "src": "static/img/logo-512.png",
-        "sizes": "512x512",
+        "src": "static/img/logo-1080.png",
+        "sizes": "1080x1080",
         "type": "image/png"
       }
     ]

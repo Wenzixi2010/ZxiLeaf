@@ -12,8 +12,7 @@ function HomepageHeader() {
   return (
     <header className={styles.heroBanner}>
       <div className="container">
-        <h1 className="hero__title">XavierMC 文档</h1>
-        <p className="hero__subtitle">包含XavierMC所有项目的文档</p>
+        <h1 className="hero__title">Zxi's Leaf 服务器教程文档</h1>
       </div>
     </header>
   );
