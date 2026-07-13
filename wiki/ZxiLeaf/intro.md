@@ -46,7 +46,7 @@ sidebar_position: 0
 
 ![Co2.png](https://s2.loli.net/2024/06/05/sFrpPh9QtIjSlzq.png)
 
-> [详细教程](/wiki/ZxiLeaf/PluginTutorial/Security/dominion.md)在这！
+> [详细教程](/wiki/ZxiLeaf/PluginTutorial/Security/coreprotect.md)在这！
 
 #### 模组适配
 
