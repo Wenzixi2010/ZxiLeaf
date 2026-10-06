@@ -11,15 +11,16 @@ sidebar_position: 0
 
 我们服务器支持玩家们使用Java版或基岩版进入服务器。截至发帖时间（2026年07月13日），我们支持如下游戏版本进入服务器：
 
-| Java版        | 基岩版         |
-| ------------- | -------------- |
-| 1.21.7-26.2   | 大于 1.21.130  |
+| Java版        | 基岩版        |
+| ------------- | ------------- |  
+| 1.21.7-26.3   | ≥ 26.3        |
 
 服务器核心版本：[Leaves-1.21.11](https://leavesmc.org)
 
-> 推荐使用Java的1.21.11和基岩版的1.26版本游玩服务器。
+> 推荐使用Java的26.3和基岩版的26.30以上版本游玩服务器。
 
-> 对于Java版玩家，我们推荐您使用[Xplus系列整合包](https://modrinth.com/modpack/xplus-2.0-modpack-global)游玩本服。
+> 对于Java版玩家，我们推荐您使用[Zxi生存服整合包](https://share.wenzixi.top/Local/Minecraft/Modpack/Zxi-26.3-Fabric%200.19.5.zip)游玩本服。
+> 或者[Xplus系列整合包](https://modrinth.com/modpack/xplus-2.0-modpack-global)
 
 ### 基本情况
 
@@ -36,15 +37,13 @@ sidebar_position: 0
 
 为了更好地利好服务器内的生电党，我们内置支持了类似Carpet假人的部分功能，无偿提供假人挂机服务。
 
-![.png](https://s2.loli.net/2024/06/04/CuXaQ8R4thU63Lg.png)
+![.png](https://share.wenzixi.top/d/Local/Lsky-image/2026/10/07/6ac5313a1bb5d.webp)
 
 #### 自助查熊
 
 本服采用CoreProtect插件对玩家一举一动进行详细记录。如发现自己的机器、房屋被破坏，物品被盗窃等，都可以通过指令快速找出熊孩子，方便服主后续的追责处理。
 
-![CoreProtect.png](https://s2.loli.net/2024/06/05/13oHSjGdicXQswu.png)
-
-![Co2.png](https://s2.loli.net/2024/06/05/sFrpPh9QtIjSlzq.png)
+![CoreProtect.png](https://share.wenzixi.top/d/Local/Lsky-image/2026/10/07/6ac53180ec416.png)
 
 > [详细教程](/wiki/ZxiLeaf/PluginTutorial/Security/coreprotect.md)在这！
 
@@ -77,19 +76,19 @@ Litematica模组是Java版社区中备受欢迎的模组之一。它提供了各
 
 以下是一些Appleskin模组的效果展示：
 
-![1.png](https://s2.loli.net/2024/06/05/12Ho6mxbM7W5uRv.png)
+![1.png](https://share.wenzixi.top/d/Local/Lsky-image/2026/10/07/6ac531d5071d9.webp)
 
-![3.gif](https://s2.loli.net/2024/06/05/KmSJ9fVPYugNhtv.gif)
+![3.gif](https://share.wenzixi.top/d/Local/Lsky-image/2026/10/07/6ac531d41cb92.webp)
 
-![4.gif](https://s2.loli.net/2024/06/05/4TZy1Ersx9HkDV2.gif)
+![4.gif](https://share.wenzixi.top/d/Local/Lsky-image/2026/10/07/6ac531d4810f4.webp)
 
-![2.gif](https://s2.loli.net/2024/06/05/khqpgiLazJYUT51.gif)
+![2.gif](https://share.wenzixi.top/d/Local/Lsky-image/2026/10/07/6ac531d403a48.gif)
 
 **[Jade](https://modrinth.com/mod/jade/versions)**
 
 Jade是信息HUD模组，旨在提供更好的用户体验和API支持。
 
-![](https://cdn.modrinth.com/data/nvQzSEkH/images/7d10e9c837c33d81b39950fb2f7bacc85df92ee3.gif)
+![Jade.gif](https://share.wenzixi.top/d/Local/Lsky-image/2026/10/07/6ac532be473f5.gif)
 
 :::danger
 
@@ -101,11 +100,23 @@ Jade是信息HUD模组，旨在提供更好的用户体验和API支持。
 
 Trade Cycling 是一个客户端和服务端均可安装的轻量级模组，它把“村民物品化”模组里的交易刷新功能单独拆了出来，让你不用反复破坏工作方块，就能一键刷新村民的交易列表
 
-![](https://sa.xnxnc.com/2026/e16591f8-bf25-6de8-c121-af27277c9a45.gif)
+![](https://share.wenzixi.top/d/Local/Lsky-image/2026/10/07/6ac5331dc17cd.gif)
+
+**[插件版：农夫乐事](https://github.com/IOVEYOUMC0/Farmersdelight-Plugin)**
+
+《农夫乐事》（Farmer's Delight）是《我的世界》中一款热门模组，核心是温和地扩展原版的农业与烹饪系统，让玩家能体验更丰富的田园生活
+
+![](https://share.wenzixi.top/d/Local/Lsky-image/2026/10/07/6ac534831ff77.png)
+
+**[插件版：森罗物语](https://github.com/Nicoppara/KaleidoscopeCookery_Plugin)**
+
+KaleidoscopeCookeryPlugin 是把 森罗物语（Kaleidoscope Cookery） 模组的中式烹饪玩法移植到 CraftEngine 的服务端插件 + 资源配置。 无需客户端装模组，玩家只用原版客户端 + 服务器资源包即可体验整套厨房：从切菜、炒菜、炖汤、蒸笼，到摆盘上桌。
+
+![](https://share.wenzixi.top/d/Local/Lsky-image/2026/10/07/6ac5352d2b823.webp)
 
 ## 写在最后
 
-欢迎大家来游玩我们ZxiLeaf纯生存服务器！
+欢迎大家来游玩我们ZxiLeaf生存服务器！
 
 我们的[QQ群](https://qm.qq.com/q/e8pvg4W0Pm)：**1027813468**
 

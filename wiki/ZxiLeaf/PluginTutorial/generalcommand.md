@@ -21,7 +21,9 @@ sidebar_position: 1
 | `/bellyflop` 或 `/gbellyflop` | 趴在玩家当前站立方块上 |  |
 | `/spin` 或 `/gspin` | 在玩家当前站立方块上转圈 |  |
 | `/crawl` 或 `/gcrawl` | 在地上爬行 | |
-
+| `/ce` | 打开CraftEngine物品配方表 |  |
+| `/kcfood` | 打开森罗物语食品配方表 |  |
+| `/fd recipe` | 打开农夫乐事配方表 | |
 :::note
 
 更多指令等待玩家在游戏中发掘
